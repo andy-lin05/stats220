@@ -15,7 +15,7 @@ A little about me:
 
 
 ## Useful link
-- [Google](google.com)
+- [Google](https://www.google.com/)
 
 ---
 
