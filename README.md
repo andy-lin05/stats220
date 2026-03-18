@@ -18,4 +18,4 @@ A little about me:
 
 ## Meme
 
-A meme that captures how I currently feel about my university studies is ![]([https://tenor.com/view/flashback-flashback-cat-cat-sad-vietnam-gif-6003517166288972550](https://media.tenor.com/HZCYj746QkgAAAAM/staringsoldiercatok.gif))
+A meme that captures how I currently feel about my university studies is ![](https://media.tenor.com/HZCYj746QkgAAAAM/staringsoldiercatok.gif)
