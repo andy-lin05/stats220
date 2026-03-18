@@ -18,4 +18,4 @@ A little about me:
 
 ## Meme
 
-A meme that captures how I currently feel about my university studies is ![]https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4lHK55RIjEmLp-CAYfFtTdkMny2Jh9IpUjA&s
+A meme that captures how I currently feel about my university studies is ![](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
