@@ -1,7 +1,8 @@
 # stats220
 ## About this repo
 This is my repo for STATS 220**. 
-##About me
+
+## About me
 A little about me:
 
 - I am undertaking a degree in *computer science*
