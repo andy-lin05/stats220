@@ -1,4 +1,3 @@
-
 ---
 title: My dynamic report
 output: html_fragment
@@ -30,14 +29,13 @@ latest_data <- logged_data %>%
   )
 
 ```
-
+### Numeric/Value summaries
 
 A total of **`r nrow(latest_data)`** people were observed.
 
 The shortest trip was **`r min(latest_data$stops)`** stops and the longest was **`r max(latest_data$stops)`** stops.
-  
 
-
+### Bar charts
 
 ```{r}
 ggplot(latest_data, aes(x = age)) +
@@ -51,12 +49,10 @@ ggplot(latest_data, aes(x = age)) +
 
 Age Group Analysis
 
-This graph shows the number of people in each age group.  
-The **20–30 age group** is the largest, while **50+** is the smallest.  
+This graph shows the number of people in each age group.\
+The **20–30 age group** is the largest, while **50+** is the smallest.
 
 This suggests that younger individuals may use the train more frequently, possibly due to commuting for work or study.
-
-
 
 ```{r}
 ggplot(latest_data, aes(x = activity, fill = age)) +
@@ -69,7 +65,7 @@ ggplot(latest_data, aes(x = activity, fill = age)) +
 
 Activity Analysis
 
-This graph shows the distribution of activities on the train, grouped by age.  
-The **most common activity** is using a phone, particularly among younger age groups.  
+This graph shows the distribution of activities on the train, grouped by age.\
+The **most common activity** is using a phone, particularly among younger age groups.
 
-This suggests that passengers tend to engage in individual, screen-based activities during their trip.
+This suggests that passengers tend to engage in individual, screen-based activities during their commute.
